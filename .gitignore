@@ -19,7 +19,8 @@
 *.avi
 *.data
 *.json
-
+*=*
+torch.*
 *.cfg
 !cfg/yolov3*.cfg
 
